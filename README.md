@@ -162,7 +162,7 @@ Through this capstone project, the following skills were demonstrated:
 
 ## 👤 Author
 
-**[Your Name]**
+**[Darshan BK]**
 - 🔗 LinkedIn: [www.linkedin.com/in/bkdarshan]
 - 💻 GitHub: [DarshanDataAnalyst]
 - 📧 Email: [darshan.bk92@gmail.com]
